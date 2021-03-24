@@ -1,0 +1,18 @@
+$nav-color: #F2F2F3;
+
+nav {
+    background-color: $nav-color;
+    width: 100%;
+    min-height: 72px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+nav > ul > li {
+    text-decoration: none;
+}
+
+.flex-grid {
+    display: flex;
+}
