@@ -52,7 +52,9 @@ Thumbs.db
 
 # ignore node/grunt dependency directories
 node_modules/
+node_modules/*
 .cache/
+.cache/*
 
 # ignore the dist directory were our bundle files are going to be
 public/*
