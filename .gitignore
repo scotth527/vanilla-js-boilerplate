@@ -52,6 +52,7 @@ Thumbs.db
 
 # ignore node/grunt dependency directories
 node_modules/
+.cache/
 
 # ignore the dist directory were our bundle files are going to be
 public/*
@@ -63,4 +64,4 @@ dist/*
 !.gitkeep
 !.htaccess
 !.eslintrc
-.babelrc
+!.babelrc
