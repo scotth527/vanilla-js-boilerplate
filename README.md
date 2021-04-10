@@ -13,3 +13,8 @@ $ npm run start
 ```
 $ npm run build
 ```
+
+4)Deploy
+```
+$ npm run deploy
+```
